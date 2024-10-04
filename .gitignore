@@ -1,14 +1,15 @@
 Data/spotify_million_playlist_dataset_challenge/challenge_set.json
 Data/spotify_million_playlist_dataset_challenge/check.py
 Data/spotify_million_playlist_dataset_challenge/md5
-Data/spotify_million_playlist_dataset_challenge/README.md
 Data/spotify_million_playlist_dataset_challenge/sample_submission.csv
 Data/spotify_million_playlist_dataset_challenge/verify_submission.py
 
+Data/spotify_million_playlist_dataset/data/
+Data/spotify_million_playlist_dataset/src/
 Data/spotify_million_playlist_dataset/license.txt
 Data/spotify_million_playlist_dataset/md5sums
-Data/spotify_million_playlist_dataset/README.md
 Data/spotify_million_playlist_dataset/stats.txt
 
 
 ETL.ipynb
+ETL(Spark).ipynb
